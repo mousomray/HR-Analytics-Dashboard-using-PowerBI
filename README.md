@@ -7,7 +7,7 @@ HR Analytics dashboard.
 * Data Importing
 * Data Cleaning & Processing
 * Data Modeling 
-* Data Analysis & visualization
+* Data Analysis & Visualization
 * Dashboard Creation
 * Final Insights
 
@@ -18,7 +18,7 @@ After collecting csv files and importing it into PowerBI performed various activ
 The data modelling process was undertaken to create a logical structure for the data, enabling it to be 
 analyzed and visualized effectively. 
 
-# Data Analysis & visualization 
+# Data Analysis & Visualization 
 * Tree Map chart: Unleash the attrition distribution by gender, painting a vivid picture of the hidden patterns within your workforce.
 
 * Donut chart: Sink your teeth into attrition count by education field, unearthing trends that will reshape your talent strategies.
